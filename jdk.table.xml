@@ -1,28 +1,10 @@
 <application>
     <component name="ProjectJdkTable">
         <jdk version="2">
-            <name value="Go 1.6" />
-            <type value="Go SDK" />
-            <version value="1.6" />
-            <homePath value="/usr/local/go" />
-            <roots>
-                <annotationsPath>
-                    <root type="composite" />
-                </annotationsPath>
-                <classPath>
-                    <root type="composite">
-                        <root type="simple" url="file:///usr/local/go/src" />
-                    </root>
-                </classPath>
-                <javadocPath>
-                    <root type="composite" />
-                </javadocPath>
-                <sourcePath>
-                    <root type="composite">
-                        <root type="simple" url="file:///usr/local/go/src" />
-                    </root>
-                </sourcePath>
-            </roots>
+            <name value="1.8" />
+            <type value="JavaSDK" />
+            <version value="java version &quot;1.8.0_72&quot;" />
+            <homePath value="/usr/lib/jvm/jdk1.8.0_72" />
             <additional />
         </jdk>
     </component>
